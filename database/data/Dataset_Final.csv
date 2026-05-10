@@ -1,0 +1,121 @@
+No,Lokasi,Hari,Tanggal,Jam,Jenis Kendaraan,Kondisi,Jumlah Kend,Cluster_ID,Label Keputusan Final
+0,Gedung Utama,Rabu,2026-04-08 00:00:00,08:30:00,sepeda motor,padat,199,2,Hindari
+1,Gedung Utama 2,Rabu,2026-04-08 00:00:00,08:30:00,sepeda motor,sedang,41,1,Rekomendasi
+2,Workshop Industri,Rabu,2026-04-08 00:00:00,08:30:00,sepeda motor,padat,110,0,Alternatif
+3,Belakang kantin,Rabu,2026-04-08 00:00:00,08:30:00,sepeda motor,sepi,33,1,Rekomendasi
+4,Parkir Depan 1,Rabu,2026-04-08 00:00:00,08:30:00,mobil,sepi,8,0,Rekomendasi
+5,Parkir Depan 2,Rabu,2026-04-08 00:00:00,08:30:00,mobil,padat,39,1,Hindari
+6,Samping GOR,Rabu,2026-04-08 00:00:00,08:30:00,sepeda motor,sedang,75,0,Alternatif
+7,Depan GSG,Rabu,2026-04-08 00:00:00,08:30:00,mobil,padat,21,2,Alternatif
+8,Gedung Utama,Rabu,2026-04-08 00:00:00,12:30:00,sepeda motor,padat,119,0,Alternatif
+9,Gedung Utama 2,Rabu,2026-04-08 00:00:00,12:30:00,sepeda motor,sedang,100,0,Alternatif
+10,Workshop Industri,Rabu,2026-04-08 00:00:00,12:30:00,sepeda motor,padat,102,0,Alternatif
+11,Belakang kantin,Rabu,2026-04-08 00:00:00,12:30:00,sepeda motor,sepi,40,1,Rekomendasi
+12,Parkir Depan 1,Rabu,2026-04-08 00:00:00,12:30:00,mobil,sepi,5,0,Rekomendasi
+13,Parkir Depan 2,Rabu,2026-04-08 00:00:00,12:30:00,mobil,padat,40,1,Hindari
+14,Samping GOR,Rabu,2026-04-08 00:00:00,12:30:00,sepeda motor,sedang,61,1,Rekomendasi
+15,Depan GSG,Rabu,2026-04-08 00:00:00,12:30:00,mobil,sedang,14,2,Alternatif
+16,Gedung Utama,Rabu,2026-04-08 00:00:00,16:30:00,sepeda motor,padat,150,2,Hindari
+17,Gedung Utama 2,Rabu,2026-04-08 00:00:00,16:30:00,sepeda motor,sepi,22,1,Rekomendasi
+18,Workshop Industri,Rabu,2026-04-08 00:00:00,16:30:00,sepeda motor,sepi,29,1,Rekomendasi
+19,Belakang kantin,Rabu,2026-04-08 00:00:00,16:30:00,sepeda motor,sepi,29,1,Rekomendasi
+20,Parkir Depan 1,Rabu,2026-04-08 00:00:00,16:30:00,mobil,sepi,6,0,Rekomendasi
+21,Parkir Depan 2,Rabu,2026-04-08 00:00:00,16:30:00,mobil,sepi,5,0,Rekomendasi
+22,Samping GOR,Rabu,2026-04-08 00:00:00,16:30:00,sepeda motor,sepi,40,1,Rekomendasi
+23,Depan GSG,Rabu,2026-04-08 00:00:00,16:30:00,mobil,sedang,15,2,Alternatif
+24,Gedung Utama,Kamis,2026-04-09 00:00:00,08:30:00,sepeda motor,padat,142,2,Hindari
+25,Gedung Utama 2,Kamis,2026-04-09 00:00:00,08:30:00,sepeda motor,padat,154,2,Hindari
+26,Workshop Industri,Kamis,2026-04-09 00:00:00,08:30:00,sepeda motor,sedang,65,0,Alternatif
+27,Belakang kantin,Kamis,2026-04-09 00:00:00,08:30:00,sepeda motor,sepi,28,1,Rekomendasi
+28,Parkir Depan 1,Kamis,2026-04-09 00:00:00,08:30:00,mobil,padat,36,1,Hindari
+29,Parkir Depan 2,Kamis,2026-04-09 00:00:00,08:30:00,mobil,sedang,14,2,Alternatif
+30,Samping GOR,Kamis,2026-04-09 00:00:00,08:30:00,sepeda motor,sepi,33,1,Rekomendasi
+31,Depan GSG,Kamis,2026-04-09 00:00:00,08:30:00,mobil,padat,39,1,Hindari
+32,Gedung Utama,Kamis,2026-04-09 00:00:00,12:30:00,sepeda motor,padat,172,2,Hindari
+33,Gedung Utama 2,Kamis,2026-04-09 00:00:00,12:30:00,sepeda motor,padat,184,2,Hindari
+34,Workshop Industri,Kamis,2026-04-09 00:00:00,12:30:00,sepeda motor,sepi,34,1,Rekomendasi
+35,Belakang kantin,Kamis,2026-04-09 00:00:00,12:30:00,sepeda motor,sepi,20,1,Rekomendasi
+36,Parkir Depan 1,Kamis,2026-04-09 00:00:00,12:30:00,mobil,sedang,18,2,Alternatif
+37,Parkir Depan 2,Kamis,2026-04-09 00:00:00,12:30:00,mobil,sedang,12,2,Alternatif
+38,Samping GOR,Kamis,2026-04-09 00:00:00,12:30:00,sepeda motor,sedang,67,0,Alternatif
+39,Depan GSG,Kamis,2026-04-09 00:00:00,12:30:00,mobil,padat,37,1,Hindari
+40,Gedung Utama,Kamis,2026-04-09 00:00:00,16:30:00,sepeda motor,padat,141,2,Hindari
+41,Gedung Utama 2,Kamis,2026-04-09 00:00:00,16:30:00,sepeda motor,sedang,45,1,Rekomendasi
+42,Workshop Industri,Kamis,2026-04-09 00:00:00,16:30:00,sepeda motor,sedang,58,1,Rekomendasi
+43,Belakang kantin,Kamis,2026-04-09 00:00:00,16:30:00,sepeda motor,sepi,31,1,Rekomendasi
+44,Parkir Depan 1,Kamis,2026-04-09 00:00:00,16:30:00,mobil,sepi,7,0,Rekomendasi
+45,Parkir Depan 2,Kamis,2026-04-09 00:00:00,16:30:00,mobil,sepi,10,0,Rekomendasi
+46,Samping GOR,Kamis,2026-04-09 00:00:00,16:30:00,sepeda motor,sepi,32,1,Rekomendasi
+47,Depan GSG,Kamis,2026-04-09 00:00:00,16:30:00,mobil,sedang,15,2,Alternatif
+48,Gedung Utama,Jumat,2026-04-10 00:00:00,08:30:00,sepeda motor,padat,136,2,Hindari
+49,Gedung Utama 2,Jumat,2026-04-10 00:00:00,08:30:00,sepeda motor,sedang,48,1,Rekomendasi
+50,Workshop Industri,Jumat,2026-04-10 00:00:00,08:30:00,sepeda motor,padat,114,0,Alternatif
+51,Belakang kantin,Jumat,2026-04-10 00:00:00,08:30:00,sepeda motor,sepi,28,1,Rekomendasi
+52,Parkir Depan 1,Jumat,2026-04-10 00:00:00,08:30:00,mobil,padat,39,1,Hindari
+53,Parkir Depan 2,Jumat,2026-04-10 00:00:00,08:30:00,mobil,sepi,6,0,Rekomendasi
+54,Samping GOR,Jumat,2026-04-10 00:00:00,08:30:00,sepeda motor,sedang,44,1,Rekomendasi
+55,Depan GSG,Jumat,2026-04-10 00:00:00,08:30:00,mobil,sedang,19,2,Alternatif
+56,Gedung Utama,Jumat,2026-04-10 00:00:00,12:30:00,sepeda motor,padat,109,0,Alternatif
+57,Gedung Utama 2,Jumat,2026-04-10 00:00:00,12:30:00,sepeda motor,sepi,27,1,Rekomendasi
+58,Workshop Industri,Jumat,2026-04-10 00:00:00,12:30:00,sepeda motor,sepi,29,1,Rekomendasi
+59,Belakang kantin,Jumat,2026-04-10 00:00:00,12:30:00,sepeda motor,sepi,40,1,Rekomendasi
+60,Parkir Depan 1,Jumat,2026-04-10 00:00:00,12:30:00,mobil,sepi,5,0,Rekomendasi
+61,Parkir Depan 2,Jumat,2026-04-10 00:00:00,12:30:00,mobil,sedang,16,2,Alternatif
+62,Samping GOR,Jumat,2026-04-10 00:00:00,12:30:00,sepeda motor,sepi,30,1,Rekomendasi
+63,Depan GSG,Jumat,2026-04-10 00:00:00,12:30:00,mobil,sedang,18,2,Alternatif
+64,Gedung Utama,Jumat,2026-04-10 00:00:00,16:30:00,sepeda motor,padat,142,2,Hindari
+65,Gedung Utama 2,Jumat,2026-04-10 00:00:00,16:30:00,sepeda motor,sepi,28,1,Rekomendasi
+66,Workshop Industri,Jumat,2026-04-10 00:00:00,16:30:00,sepeda motor,sepi,20,1,Rekomendasi
+67,Belakang kantin,Jumat,2026-04-10 00:00:00,16:30:00,sepeda motor,sepi,38,1,Rekomendasi
+68,Parkir Depan 1,Jumat,2026-04-10 00:00:00,16:30:00,mobil,sepi,10,0,Rekomendasi
+69,Parkir Depan 2,Jumat,2026-04-10 00:00:00,16:30:00,mobil,sedang,13,2,Alternatif
+70,Samping GOR,Jumat,2026-04-10 00:00:00,16:30:00,sepeda motor,sepi,40,1,Rekomendasi
+71,Depan GSG,Jumat,2026-04-10 00:00:00,16:30:00,mobil,sedang,14,2,Alternatif
+72,Gedung Utama,Senin,2026-04-13 00:00:00,08:30:00,sepeda motor,padat,181,2,Hindari
+73,Gedung Utama 2,Senin,2026-04-13 00:00:00,08:30:00,sepeda motor,sedang,50,1,Rekomendasi
+74,Workshop Industri,Senin,2026-04-13 00:00:00,08:30:00,sepeda motor,padat,142,2,Hindari
+75,Belakang kantin,Senin,2026-04-13 00:00:00,08:30:00,sepeda motor,sepi,40,1,Rekomendasi
+76,Parkir Depan 1,Senin,2026-04-13 00:00:00,08:30:00,mobil,sepi,10,0,Rekomendasi
+77,Parkir Depan 2,Senin,2026-04-13 00:00:00,08:30:00,mobil,sedang,12,2,Alternatif
+78,Samping GOR,Senin,2026-04-13 00:00:00,08:30:00,sepeda motor,sedang,83,0,Alternatif
+79,Depan GSG,Senin,2026-04-13 00:00:00,08:30:00,mobil,sedang,13,2,Alternatif
+80,Gedung Utama,Senin,2026-04-13 00:00:00,12:30:00,sepeda motor,padat,115,0,Alternatif
+81,Gedung Utama 2,Senin,2026-04-13 00:00:00,12:30:00,sepeda motor,padat,149,2,Hindari
+82,Workshop Industri,Senin,2026-04-13 00:00:00,12:30:00,sepeda motor,sedang,42,1,Rekomendasi
+83,Belakang kantin,Senin,2026-04-13 00:00:00,12:30:00,sepeda motor,sepi,40,1,Rekomendasi
+84,Parkir Depan 1,Senin,2026-04-13 00:00:00,12:30:00,mobil,sedang,12,2,Alternatif
+85,Parkir Depan 2,Senin,2026-04-13 00:00:00,12:30:00,mobil,sedang,16,2,Alternatif
+86,Samping GOR,Senin,2026-04-13 00:00:00,12:30:00,sepeda motor,sepi,35,1,Rekomendasi
+87,Depan GSG,Senin,2026-04-13 00:00:00,12:30:00,mobil,sedang,14,2,Alternatif
+88,Gedung Utama,Senin,2026-04-13 00:00:00,16:30:00,sepeda motor,padat,173,2,Hindari
+89,Gedung Utama 2,Senin,2026-04-13 00:00:00,16:30:00,sepeda motor,sepi,38,1,Rekomendasi
+90,Workshop Industri,Senin,2026-04-13 00:00:00,16:30:00,sepeda motor,sedang,97,0,Alternatif
+91,Belakang kantin,Senin,2026-04-13 00:00:00,16:30:00,sepeda motor,sepi,23,1,Rekomendasi
+92,Parkir Depan 1,Senin,2026-04-13 00:00:00,16:30:00,mobil,sepi,5,0,Rekomendasi
+93,Parkir Depan 2,Senin,2026-04-13 00:00:00,16:30:00,mobil,sedang,13,2,Alternatif
+94,Samping GOR,Senin,2026-04-13 00:00:00,16:30:00,sepeda motor,sepi,20,1,Rekomendasi
+95,Depan GSG,Senin,2026-04-13 00:00:00,16:30:00,mobil,sedang,15,2,Alternatif
+96,Gedung Utama,Selasa,2026-04-14 00:00:00,08:30:00,sepeda motor,padat,150,2,Hindari
+97,Gedung Utama 2,Selasa,2026-04-14 00:00:00,08:30:00,sepeda motor,sedang,94,0,Alternatif
+98,Workshop Industri,Selasa,2026-04-14 00:00:00,08:30:00,sepeda motor,sedang,46,1,Rekomendasi
+99,Belakang kantin,Selasa,2026-04-14 00:00:00,08:30:00,sepeda motor,sepi,39,1,Rekomendasi
+100,Parkir Depan 1,Selasa,2026-04-14 00:00:00,08:30:00,mobil,sepi,6,0,Rekomendasi
+101,Parkir Depan 2,Selasa,2026-04-14 00:00:00,08:30:00,mobil,padat,30,1,Hindari
+102,Samping GOR,Selasa,2026-04-14 00:00:00,08:30:00,sepeda motor,sedang,83,0,Alternatif
+103,Depan GSG,Selasa,2026-04-14 00:00:00,08:30:00,mobil,padat,33,1,Hindari
+104,Gedung Utama,Selasa,2026-04-14 00:00:00,12:30:00,sepeda motor,padat,197,2,Hindari
+105,Gedung Utama 2,Selasa,2026-04-14 00:00:00,12:30:00,sepeda motor,sepi,32,1,Rekomendasi
+106,Workshop Industri,Selasa,2026-04-14 00:00:00,12:30:00,sepeda motor,sedang,81,0,Alternatif
+107,Belakang kantin,Selasa,2026-04-14 00:00:00,12:30:00,sepeda motor,sepi,25,1,Rekomendasi
+108,Parkir Depan 1,Selasa,2026-04-14 00:00:00,12:30:00,mobil,sepi,6,0,Rekomendasi
+109,Parkir Depan 2,Selasa,2026-04-14 00:00:00,12:30:00,mobil,sedang,12,2,Alternatif
+110,Samping GOR,Selasa,2026-04-14 00:00:00,12:30:00,sepeda motor,sepi,22,1,Rekomendasi
+111,Depan GSG,Selasa,2026-04-14 00:00:00,12:30:00,mobil,sedang,15,2,Alternatif
+112,Gedung Utama,Selasa,2026-04-14 00:00:00,16:30:00,sepeda motor,padat,134,2,Hindari
+113,Gedung Utama 2,Selasa,2026-04-14 00:00:00,16:30:00,sepeda motor,sedang,48,1,Rekomendasi
+114,Workshop Industri,Selasa,2026-04-14 00:00:00,16:30:00,sepeda motor,sepi,38,1,Rekomendasi
+115,Belakang kantin,Selasa,2026-04-14 00:00:00,16:30:00,sepeda motor,sepi,30,1,Rekomendasi
+116,Parkir Depan 1,Selasa,2026-04-14 00:00:00,16:30:00,mobil,sepi,7,0,Rekomendasi
+117,Parkir Depan 2,Selasa,2026-04-14 00:00:00,16:30:00,mobil,sepi,10,0,Rekomendasi
+118,Samping GOR,Selasa,2026-04-14 00:00:00,16:30:00,sepeda motor,sepi,26,1,Rekomendasi
+119,Depan GSG,Selasa,2026-04-14 00:00:00,16:30:00,mobil,sedang,13,2,Alternatif
