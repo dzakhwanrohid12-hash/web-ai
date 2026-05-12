@@ -212,12 +212,16 @@
             </div>
 
             {{-- Kolom 3: Informasi --}}
-            <div class="footer-col">
-                <h4>Informasi</h4>
-                <p><i class="fas fa-map-marker-alt"></i> Politeknik Caltex Riau</p>
-                <p><i class="fas fa-clock"></i> Senin - Jumat, 07:00 - 17:00</p>
-                <p><i class="fas fa-envelope"></i> parkir@pcr.ac.id</p>
-            </div>
+<div class="footer-col">
+    <h4>Informasi</h4>
+    <p><i class="fas fa-map-marker-alt"></i> Politeknik Caltex Riau</p>
+    {{-- Link ke website PCR --}}
+    <p style="margin-top: -10px; margin-left: 20px;">
+        <a href="https://pcr.ac.id" target="_blank" style="color: #3B82F6; text-decoration: none; font-size: 0.85rem;">
+            <i class="fas fa-external-link-alt" style="font-size: 0.7rem;"></i> pcr.ac.id
+        </a>
+    </p>
+</div>
 
             {{-- Kolom 4: Media Sosial --}}
             <div class="footer-col">
