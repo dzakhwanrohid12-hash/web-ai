@@ -16,13 +16,13 @@ class AuthController extends Controller
 
     public function registerPost(Request $request)
     {
+        // 1. Hapus batasan 'ends_with' agar email umum (Gmail/Yahoo) bisa masuk
         $request->validate([
             'name' => 'required|string|max:255',
-            'email' => 'required|string|email|max:255|unique:users|ends_with:@mahasiswa.pcr.ac.id',
+            'email' => 'required|string|email|max:255|unique:users',
             'password' => 'required|string|min:6',
         ], [
-            'email.ends_with' => 'Hanya email dengan domain @mahasiswa.pcr.ac.id yang diizinkan mendaftar.',
-            'email.unique' => 'Email ini sudah terdaftar.'
+            'email.unique' => 'Email ini sudah terdaftar di sistem kami.'
         ]);
 
         $user = User::create([
@@ -33,7 +33,16 @@ class AuthController extends Controller
 
         Auth::login($user);
 
-        return redirect()->route('parking.index')->with('success', 'Berhasil mendaftar dan login!');
+        // 2. UX Tambahan: Logika deteksi kategori user untuk Flash Message
+        $isCivitas = str_ends_with($user->email, '@mahasiswa.pcr.ac.id') || str_ends_with($user->email, '@pcr.ac.id');
+
+        if ($isCivitas) {
+            $pesanSukses = 'Selamat datang! Anda berhasil mendaftar sebagai Civitas PCR.';
+        } else {
+            $pesanSukses = 'Selamat datang! Anda berhasil mendaftar sebagai Tamu Publik.';
+        }
+
+        return redirect()->route('parking.index')->with('success', $pesanSukses);
     }
 
     public function login()
@@ -50,7 +59,13 @@ class AuthController extends Controller
 
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
-            return redirect()->route('parking.index');
+
+            // Cek role pengguna dan arahkan ke dashboard yang tepat
+            if (Auth::user()->role === 'admin') {
+                return redirect()->route('admin.dashboard');
+            }
+
+            return redirect()->route('parking.index')->with('success', 'Berhasil login kembali!');
         }
 
         return back()->withErrors([
